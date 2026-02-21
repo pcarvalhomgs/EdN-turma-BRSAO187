@@ -1,2 +1,2 @@
 # Turma EdN BRSAO187
-Este Repositório contem as resoluções das atividades praticas em sala.
+Este repositório contem as resoluções das atividades praticas em sala.
